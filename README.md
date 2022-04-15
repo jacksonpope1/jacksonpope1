@@ -12,8 +12,8 @@
 <br>
 
 <div align="center">
-<h3>💻 Web Developer | 🌏 USA </h3>
- <h3>Future Park Ranger</h3>
+<h3>💻 Junior(Quite Literally) Software Engineer | 🌏 USA </h3>
+ <h3>Future FAANG Employee</h3>
 </div>
 
 
